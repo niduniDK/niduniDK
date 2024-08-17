@@ -1,4 +1,4 @@
-![Misc_ Gifs #2](https://github.com/user-attachments/assets/5b7f3ace-dca4-40b8-82c0-25b15cfa27b6)
+![Hello Animation](https://github.com/user-attachments/assets/f8b64100-9f6f-4946-8548-75b51a8d2762)
 - 👋 Hi, I’m Niduni Kasige
 - 👀 I’m interested in AI & ML
 - 📫 How to reach me nidunikasige@gmail.com
