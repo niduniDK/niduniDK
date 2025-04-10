@@ -49,11 +49,12 @@ Connect with me via <a href="mailto:nidunikasige@gmail.com">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niduniDK&theme=radical" width="50%">
 
 </div>
+<br/><br/>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=niduniDK&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="github trophies" />
 </p>
-
+<br/>
 
 ### 📫 Let's Connect  
 <p align="left">
