@@ -45,8 +45,10 @@ Connect with me via <a href="mailto:nidunikasige@gmail.com">
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niduniDK&layout=compact&theme=radical" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=niduniDK&show_icons=true&theme=radical" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=niduniDK&show_icons=true&theme=radical" width="50%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niduniDK&theme=radical" width="50%">
+  <img src="https://activity-graph.herokuapp.com/graph?username=niduniDK&theme=github">
+
 
 </div>
 <br/><br/>
