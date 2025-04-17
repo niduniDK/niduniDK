@@ -30,6 +30,11 @@ Connect with me via <a href="mailto:nidunikasige@gmail.com">
   <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" width="50">
   <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original-wordmark.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="50">
 </p>
 
 ---
