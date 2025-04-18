@@ -25,6 +25,7 @@ Connect with me via <a href="mailto:nidunikasige@gmail.com">
   <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="50">
   <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original.svg" width="50">
   <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg" width="50">
   <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width="50">
