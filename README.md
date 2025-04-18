@@ -21,7 +21,7 @@ Connect with me via <a href="mailto:nidunikasige@gmail.com">
 ---
 
 ### 🛠 Tech Stack
-<p align="left">
+<p align="left">  
   <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="50">
   <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50">
@@ -37,6 +37,7 @@ Connect with me via <a href="mailto:nidunikasige@gmail.com">
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50">
 </p>
 
 ---
