@@ -56,7 +56,7 @@ Connect with me via <a href="mailto:nidunikasige@gmail.com">
   <img src="https://github-readme-stats.vercel.app/api?username=niduniDK&show_icons=true&theme=radical" width="45%" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niduniDK&theme=radical" width="45%"><br/>
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=niduniDK&theme=github"> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niduniDK&theme=github_dark" alt="" style="max-width: 70%;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niduniDK&theme=radical" alt="" style="max-width: 70%;">
 
 
 </div>
