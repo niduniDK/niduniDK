@@ -52,7 +52,7 @@ Connect with me via <a href="mailto:nidunikasige@gmail.com">
 ## Most used languages
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niduniDK&layout=compact&theme=radical" width="45%" height="80%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niduniDK&layout=compact&theme=radical" width="45%"">
   <img src="https://github-readme-stats.vercel.app/api?username=niduniDK&show_icons=true&theme=radical" width="45%" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niduniDK&theme=radical" width="45%"><br/>
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=niduniDK&theme=github"> -->
