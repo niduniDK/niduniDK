@@ -12,13 +12,17 @@
 
 ### 💡 About Me
 
-<p>🎓I am a **Data Science Engineering Undergraduate** passionate about **AI, Machine Learning, and Software Development**.  
+🎓I am a **Data Science Engineering Undergraduate** passionate about **AI, Machine Learning, and Software Development**.  
 I love exploring new technologies and building **AI-driven applications**, full-stack solutions, and **data-driven projects**.
 Connect with me via <a href="mailto:nidunikasige@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-Check out my portfolio <a href="https://niduni-kasige.vercel.app/">here</a></p>
+  <br/>
+
 ---
+
+[![Portfolio Button](https://img.shields.io/badge/🌟%20Visit%20My%20Portfolio%20🌟-Click%20Here-ff69b4?style=for-the-badge&logo=vercel)](https://niduni-kasige.vercel.app/)
+
 
 ### 🛠 Tech Stack
 <p align="left">  
