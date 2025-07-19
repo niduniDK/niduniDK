@@ -17,7 +17,7 @@ I love exploring new technologies and building **AI-driven applications**, full-
 Connect with me via <a href="mailto:nidunikasige@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-
+Check out my portfolio <a href="https://niduni-kasige.vercel.app/">here</a>
 ---
 
 ### 🛠 Tech Stack
