@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there! 👋 I'm Niduni Dinuradie Kasige</h1>
 
 <p align="center">
@@ -12,12 +11,13 @@
 ---
 
 ### 💡 About Me
-🎓I am a **Data Science Engineering Undergraduate** passionate about **AI, Machine Learning, and Software Development**.  
+
+<p>🎓I am a **Data Science Engineering Undergraduate** passionate about **AI, Machine Learning, and Software Development**.  
 I love exploring new technologies and building **AI-driven applications**, full-stack solutions, and **data-driven projects**.
 Connect with me via <a href="mailto:nidunikasige@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-Check out my portfolio <a href="https://niduni-kasige.vercel.app/">here</a>
+Check out my portfolio <a href="https://niduni-kasige.vercel.app/">here</a></p>
 ---
 
 ### 🛠 Tech Stack
